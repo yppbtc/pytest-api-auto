@@ -1,4 +1,4 @@
-# Python API 自动化测试框架
+# pytest-api-auto
 
 基于 pytest + Allure 的接口自动化测试框架，采用分层架构设计，支持数据驱动测试和接口间数据关联。
 
